@@ -8,6 +8,6 @@ function kittens()
 
 function destructivelyAppendKitten(name)
 {
-  var newname = name.push("Ralph");
-  return newname; 
+  var kittens = ["Milo", "Otis", "Garlfield"];
+  name.push("Ralph");
 }
