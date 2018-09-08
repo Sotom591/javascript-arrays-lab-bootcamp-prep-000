@@ -15,3 +15,8 @@ function destructivelyPrependKitten(name)
 {
   var nextNewKitten = kittens.unshift("Bob");
 }
+
+function destructivelyRemoveLastKitten()
+{
+  var destroyKitten = kittens.pop()
+}
