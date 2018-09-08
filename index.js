@@ -38,5 +38,5 @@ function prependKitten(name)
 
 function removeLastKitten()
 {
-  
+  var niceLastKitten = 
 }
