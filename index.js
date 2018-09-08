@@ -13,5 +13,5 @@ function destructivelyAppendKitten(name)
 
 function destructivelyPrependKitten(name)
 {
-  
+  var nextNewKitten = kittens.unshift("Bob");
 }
