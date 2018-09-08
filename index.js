@@ -10,3 +10,8 @@ function destructivelyAppendKitten(name)
 {
   var newKitten = kittens.push("Ralph");
 }
+
+function destructivelyPrependKitten(name)
+{
+  
+}
