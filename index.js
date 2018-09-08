@@ -25,3 +25,8 @@ function destructivelyRemoveFirstKitten()
 {
   var destroyFirstKitten = kittens.shift();
 }
+
+function appendKitten(name)
+{
+  var niceNewKitten = kittens
+}
