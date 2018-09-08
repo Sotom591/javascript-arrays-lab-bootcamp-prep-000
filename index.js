@@ -28,6 +28,5 @@ function destructivelyRemoveFirstKitten()
 
 function appendKitten(name)
 {
-  var niceNewKitten = appendKitten("Broom");
-  return niceNewKitten;
+ return appendKitten("Broom");
 }
