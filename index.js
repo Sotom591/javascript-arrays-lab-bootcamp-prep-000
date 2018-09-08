@@ -18,5 +18,10 @@ function destructivelyPrependKitten(name)
 
 function destructivelyRemoveLastKitten()
 {
-  var destroyKitten = kittens.pop()
+  var destroyLastKitten = kittens.pop();
+}
+
+function destructivelyRemoveFirstKitten()
+{
+  var destroyFirstKitten = kittens.
 }
