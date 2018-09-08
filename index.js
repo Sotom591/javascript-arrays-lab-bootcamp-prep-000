@@ -8,5 +8,5 @@ function kittens()
 
 function destructivelyAppendKitten(name)
 {
-  
+  name.push()
 }
